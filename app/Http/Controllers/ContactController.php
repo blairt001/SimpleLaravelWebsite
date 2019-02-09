@@ -30,5 +30,10 @@ class ContactController extends Controller
     }
    
 
+   public function contacts(){
+   	// fetch all contacts from the database
+     $contacts = Contact::all();
 
+     return view('contacts')->with('contacts',$contacts);
+   }
 }
