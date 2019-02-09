@@ -23,3 +23,4 @@ Route::get('/contact', function () {
 Route::get('/more', function () {
     return view('more');
 });
+Route::post('/contact/submit', 'ContactController@submit');
