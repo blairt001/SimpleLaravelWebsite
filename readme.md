@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/blairt001/SimpleLaravelWebsite.svg?branch=develop)](https://travis-ci.org/blairt001/SimpleLaravelWebsite)
+[MIT LICENSE](https://github.com/blairt001/SimpleLaravelWebsite/blob/develop/LICENSE)
 
 # Simple Laravel Website
 This is a simple website built in laravel
