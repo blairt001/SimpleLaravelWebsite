@@ -3,7 +3,7 @@
 # Simple Laravel Website
 This is a simple website built in laravel
 
-#Project License
+# Project License
 [MIT LICENSE](https://github.com/blairt001/SimpleLaravelWebsite/blob/develop/LICENSE)
 
 # Setting up the project
