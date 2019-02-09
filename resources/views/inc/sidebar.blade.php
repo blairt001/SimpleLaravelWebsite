@@ -1,6 +1,6 @@
  @section('sidebar')
     <div class="well">
-    <h1>Sidebar</h1>
-    This is the sidebar
+    <h1>Latest News</h1>
+    1. Solving coding technical problems.
 </div>
 @show
