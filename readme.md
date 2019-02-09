@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/blairt001/SimpleLaravelWebsite.svg?branch=develop)](https://travis-ci.org/blairt001/SimpleLaravelWebsite)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b2900b9f2538153df62c/maintainability)](https://codeclimate.com/github/blairt001/SimpleLaravelWebsite/maintainability)
 
 # Simple Laravel Website
 This is a simple website built in laravel
